@@ -1,0 +1,6 @@
+Our choice for the delivery service: LinearRegression.
+Reasons:
+  1. It has the lowest cross-validated error here.
+  2. It trains in milliseconds and needs almost no memory.
+  3. We can read its coefficients and explain a prediction
+     to a restaurant owner. Nobody can read 50 trees.

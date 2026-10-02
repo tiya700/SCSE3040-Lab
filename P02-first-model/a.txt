@@ -1,0 +1,1 @@
+70/30 split performed worse as the mae jumped from 1.92 to 2.09.
